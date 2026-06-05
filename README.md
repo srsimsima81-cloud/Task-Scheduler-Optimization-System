@@ -126,36 +126,37 @@ Report Generation
 
 ## 📂 Project Structure
 
+```text
 Task-Scheduler-Optimization-System/
-
+│
 ├── data/
-│ └── tasks.csv
+│   └── tasks.csv
 │
 ├── docs/
-│ ├── architecture.md
-│ ├── algorithm.md
-│ └── future_enhancements.md
+│   ├── architecture.md
+│   ├── algorithm.md
+│   └── future_enhancements.md
 │
 ├── images/
-│ └── screenshots
+│   └── README.md
 │
 ├── outputs/
-│ ├── sample_report.txt
-│ └── sample_schedule.csv
+│   ├── sample_report.txt
+│   └── sample_schedule.csv
 │
 ├── src/
-│ ├── task.py
-│ ├── scheduler.py
-│ ├── validator.py
-│ └── report.py
+│   ├── task.py
+│   ├── scheduler.py
+│   ├── validator.py
+│   └── report.py
 │
 ├── app.py
 ├── main.py
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
----
 
 ## ⚙️ Installation
 
